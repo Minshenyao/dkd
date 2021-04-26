@@ -125,7 +125,7 @@ if(result.status_code == 10020){
     },timeout)
   })
 }
-/*
+
 function dkdyq(timeout = 0) {
   return new Promise((resolve) => {
 let url = {
@@ -149,7 +149,7 @@ if(result.status_code == 10020){
     },timeout)
   })
 }
-*/
+
 //多看点视频宝箱翻倍     
 function dkdbxfb(timeout = 0) {
   return new Promise((resolve) => {
