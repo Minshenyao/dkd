@@ -1,5 +1,3 @@
-#参照ruicky/jd_sign_bot
-
 name: Github dkd-auto-coin
 on:
     push:
